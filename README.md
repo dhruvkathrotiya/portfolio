@@ -1,5 +1,3 @@
-# portfolio
-Part of assignment.... 
 <!DOCTYPE html>
 <html lang="en">
 
